@@ -18,4 +18,4 @@ Keeping track of your plant's mositure, knowing when to water it, and also remem
 
 ![Image of schematic](Assets/schematic.png)
 ![Image of pcb](Assets/pcb.png)
-![Image of pcb](Assets/pcb-render.png)
+![Image of pcb](Assets/pcb-3d.png)
